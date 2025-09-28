@@ -45,3 +45,5 @@ Expand it to see the message variable.
 Click the blue "message" button to read the stored message. It should display "Hello, World!" in the Remix console.
 
 <img width="1440" height="482" alt="interact-with-contract aa17549 1440" src="https://github.com/user-attachments/assets/36b0a80a-2509-418a-a2fc-58132ca9835c" />
+
+Fauchet https://faucet.zenchain.io/
