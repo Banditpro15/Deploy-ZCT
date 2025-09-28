@@ -4,7 +4,7 @@ Tutorial: Deploy a Smart Contract
 Access Remix IDE in your web browser: https://remix.ethereum.org/
 2. Create the Smart Contract
 In the left-hand file explorer pane, create a new file named HelloWorld.sol.
-Paste the following Solidity code into the file 
+Paste the following Solidity code into the file.
 
 pragma solidity ^0.8.0;
 
